@@ -1,4 +1,6 @@
-Category censorship
-Category knghtbird
+Categories {
+  censorship "Censorchip related topics"
+  knghtbird "Authored by knghtbird"
+}
 
-Quote 0.txt category=censorship,knghtbird source=fortune
+Quote "0.txt" category="knghtbird,censorship" source="fortune"
